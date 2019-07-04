@@ -1,0 +1,9 @@
+[package]
+name = "live_plot"
+version = "0.1.0"
+authors = ["Noah Ryan <noah.m.ryan@nasa.gov>"]
+edition = "2018"
+
+[dependencies]
+minifb = "0.11"
+plotters = "^0.2"
